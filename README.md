@@ -14,7 +14,6 @@ This project was completed as part of the **EN1190 Engineering Design Project** 
 ## Tools Used
 - Altium Designer
 - SolidWorks
-- MATLAB
 - Microsoft PowerPoint
 
 ## Author
